@@ -83,7 +83,6 @@ ul {
   height: 1000px;
   width: 100%;
   padding-left: 180px;
-  background-color: pink;
   padding-top: 50px;
   transition:all 1s;
 }
@@ -115,4 +114,20 @@ ul {
 
 .lt_main .breadcrumb {
   margin-top: 20px;
+}
+
+.red {
+  color: #A94442;
+}
+
+.echarts1,
+.echarts2 {
+  height: 400px;
+  width: 48%;
+}
+
+.lt_main .table.table-bordered th,
+.lt_main .table.table-bordered td {
+  text-align:center;
+  vertical-align:middle;
 }
